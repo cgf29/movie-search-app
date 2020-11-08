@@ -1,0 +1,25 @@
+.pagination{
+   
+   ul{
+      list-style: none;
+      display: flex;
+      margin: auto;
+      flex-wrap: wrap;
+
+      li{
+         border: 1px solid #999;
+         background: #ffffff;
+         padding: 8px;
+         font-size: 16px;
+         font-family: sans-serif;
+         cursor: pointer;
+         opacity: 0.8;
+      }
+
+      .active{
+         opacity: 1;
+         font-weight: 600;
+         background: #5FFFBB;
+      }
+   }
+}

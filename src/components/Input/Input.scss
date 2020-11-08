@@ -1,0 +1,13 @@
+.input{
+   input{
+      width: 400px;
+      height: 15px;
+      padding: 5px;
+   }
+
+   @media screen and (max-width: 768px){
+      input{
+         width: 80vw;
+      }
+   }
+}

@@ -1,0 +1,6 @@
+export const SET_IS_LOADING = 'SET_IS_LOADING';
+export const FETCH_MOVIE = 'FETCH_MOVIE';
+export const FETCH_MOVIES = 'FETCH_MOVIES';
+export const NEXT_PAGE = 'NEXT_PAGE';
+export const INPUT_VALUE_CHANGE = 'INPUT_VALUE_CHANGE';
+export const SET_CURRENT_MOVIE_ID = 'SET_CURRENT_MOVIE_ID';

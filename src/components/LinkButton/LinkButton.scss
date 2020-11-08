@@ -1,0 +1,18 @@
+.btn{
+   font-family: sans-serif;
+   padding: 7px 15px;
+   background: #5FFFBB;
+   display: inline-block;
+   border-radius: 5px;
+   cursor: pointer;
+
+   a{
+      color: #666;
+      text-decoration: none;
+      transition: .2s all ease-in;
+   }
+
+   a:hover{
+      color: #000;
+   }
+}
